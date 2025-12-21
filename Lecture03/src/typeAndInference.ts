@@ -19,4 +19,4 @@ console.log(cup02);
 
 // do chize ati hai inference and notation okkh!
 // inference ka generally mtlb hota hai ki dataType mil jayega apne app okkh!..
-// notation iska mtlb ye hai like ki hame dena padega iska type!..
+// notation iska mtlb ye hai like ki hame dena padega iska type!.. like above cup02 wala diya hai
