@@ -181,3 +181,5 @@ const OmitChaiType: OmitChai = {
   price: 12,
   isHot: true,
 };
+
+// Hmne yha p pick omit partial and reuqired padha and isme hamne like method bhi ho sakta hai aur object bhi aa sakta hai okh!..
