@@ -84,3 +84,5 @@ const size = ObjectType3.CANCELED;
 // tupples m hamm boxes k andar dataType likh rahe hote hai okkh!.. example [string, number, boolean] etc ye sbahi tere tupples honge okh!..
 // enum ata hai okkh isme hamm fixed chize kikh rahe hote hai okkh! agar ye hai to hi hoga ye iske alwa kuch nahi hoga yahi ho rha hota hai isme bass okkh!
 // and best paractise mani jati hai jab same Type s dataType s bana rahe to enum agar diffrent type ka banoge to wo bad practise mani jayegi ookkh!..
+
+// enum arrays and tuples ata hai okkh!..
