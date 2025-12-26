@@ -60,6 +60,11 @@ interface B {
 
 // mughe third wala chaiye jisme actauully ye dono aa jaye to mai extends kar lunga!.//
 
+// mughe agar aisa interface chaiye jisme a and b ka data already exist karte hai to mai inko xtends karke chize le sakta hu okh..
+// like below!..
+
+// jaise kahi kahi p hame a m sara data hoga and b m wahi same data chaiye hoga but kuch extenstion k sath like kuch extra chize auur chaiye hongi to mai a ko extends kar dunga b mai okkh!..
+
 interface C extends A, B {}
 
 const Chai: C = {
