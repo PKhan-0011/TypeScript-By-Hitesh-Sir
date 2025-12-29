@@ -54,6 +54,7 @@ const u: User = {
 interface A {
   a: string;
 }
+
 interface B {
   b: string;
 }

@@ -56,3 +56,19 @@ console.log(u4);
 
 // accessable modifier ata hai isme hamm private public keyy create karte hai okkh!..
 // public key sabke liye hota hai and private kiye with in class k liye hota hai okkh!..
+
+class StudentClass {
+  firstName: string;
+  lastName: string;
+
+  constructor(firstName: string, lastName: string) {
+    this.firstName = firstName;
+    this.lastName = lastName;
+  }
+}
+
+// classess s agar object banana hoga to mai new keyword ka use karta hu ye to pta hi hai okkh!..
+
+const u3 = new StudentClass("Parvej", "Khan"); // mugeh agar iske andar data chaiye to mai constructor dunga okkh!..
+u3.firstName = "Parvej";
+u3.lastName = "Khan";
