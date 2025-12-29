@@ -1,5 +1,3 @@
-import React from "react";
-
 interface articleObject {
   name: string;
   price: number;
